@@ -30,3 +30,4 @@ pip install -r requirements.txt
 ## Dataset
 
 Place your original CSV as `data/raw_dataset.csv` before running the notebooks.
+# plant_disease_detection
